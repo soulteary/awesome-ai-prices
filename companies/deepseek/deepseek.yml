@@ -1,0 +1,20 @@
+Name: 幻方量化
+Nick: 深度求索
+URL: https://www.deepseek.com/
+Country: 中国
+StockPrice: ""
+StockURL: ""
+PriceURL: https://platform.deepseek.com/api-docs/zh-cn/pricing/
+Prices:
+  - deepseek-chat:
+    - name: deepseek-chat
+    - input: 1
+    - output: 2
+    - unit: RMB
+    - size: M
+  - deepseek-coder:
+    - name: deepseek-coder
+    - input: 1
+    - output: 2
+    - unit: RMB
+    - size: M
