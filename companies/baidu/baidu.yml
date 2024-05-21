@@ -1,0 +1,56 @@
+Name: 百度云
+Nick: 文心
+URL: https://cloud.baidu.com/wenxin.html
+Country: 中国
+StockPrice: "2885.51亿 HKD"
+StockURL: "https://www.google.com/search?q=%E7%99%BE%E5%BA%A6+%E5%B8%82%E5%80%BC"
+PriceURL: https://cloud.baidu.com/doc/WENXINWORKSHOP/s/hlrk4akp7
+Prices:
+  - ERNIE 4.0:
+    - name: ERNIE 4.0
+    - input: 0.12
+    - output: 0.12
+    - unit: RMB
+    - size: K
+  - ERNIE 3.5:
+    - name: ERNIE 3.5
+    - input: 0.012
+    - output: 0.012
+    - unit: RMB
+    - size: K
+  - ERNIE Speed:
+    - name: ERNIE Speed
+    - input: 0
+    - output: 0
+    - unit: RMB
+    - size: K
+  - ERNIE Lite:
+    - name: ERNIE Lite
+    - input: 0
+    - output: 0
+    - unit: RMB
+    - size: K
+  - ERNIE-3.5-128k:
+    - name: ERNIE-3.5-128k(预览版)
+    - input: 0.048
+    - output: 0.096
+    - unit: RMB
+    - size: K
+  - ERNIE Tiny:
+    - name: ERNIE Tiny
+    - input: 0
+    - output: 0
+    - unit: RMB
+    - size: K
+  - ERNIE-Character-8K:
+    - name: ERNIE-Character-8K
+    - input: 0.004
+    - output: 0.008
+    - unit: RMB
+    - size: K
+  - ERNIE-Function-8K:
+    - name: ERNIE-Function-8K
+    - input: 0.004
+    - output: 0.008
+    - unit: RMB
+    - size: K
