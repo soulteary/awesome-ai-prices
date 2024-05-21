@@ -1,0 +1,50 @@
+Name: 阿里云
+Nick: 阿里通义
+URL: https://tongyi.aliyun.com/
+Country: 中国
+StockPrice: "1.62万亿 HKD"
+StockURL: "https://www.google.com/search?q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+%E5%B8%82%E5%80%BC"
+PriceURL: https://help.aliyun.com/document_detail/2586397.html
+Prices:
+  - qwen-long:
+    - name: Qwen-Long
+    - input: 0.0005
+    - output: 0.002
+    - unit: RMB
+    - size: K
+  - qwen-turbo:
+    - name: 通义千问-Turbo
+    - input: 0.002
+    - output: 0.006
+    - unit: RMB
+    - size: K
+  - qwen-plus:
+    - name: 通义千问-Plus
+    - input: 0.004
+    - output: 0.012
+    - unit: RMB
+    - size: K
+  - qwen-max:
+    - name: 通义千问-Max
+    - input: 0.04
+    - output: 0.12
+    - unit: RMB
+    - size: K
+  - qwen-max-1201:
+    - name: 通义千问-Max
+    - input: 0.12
+    - output: 0.12
+    - unit: RMB
+    - size: K
+  - qwen-vl-plus:
+    - name: 通义千问VL
+    - input: 0.008
+    - output: 0.008
+    - unit: RMB
+    - size: K
+  - qwen-vl-max:
+    - name: 通义千问VL
+    - input: 0.02
+    - output: 0.02
+    - unit: RMB
+    - size: K

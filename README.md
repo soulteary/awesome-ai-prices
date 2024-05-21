@@ -7,9 +7,33 @@
 
 ## 模型 API 服务
 
-### 国内
+- 阿里云
+- 腾讯云
+- 华为云
+- 字节云
+- 百度云
+
+- 月之暗面
+- MinMax
+- 智谱 AI
+- 零一万物
+- 百川智能
+
+...
 
 ### 全球
+
+- 亚马逊 (AWS Bedrock)
+- 微软云 (Microsoft Azure OAI)
+- 谷歌云 (Google Cloud Vertex AI)
+- Nvidia
+
+- OpenAI
+- Anthropic
+- Cohere
+- HuggingFace
+
+...
 
 ## 模型 SaaS 服务
 
