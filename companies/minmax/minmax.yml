@@ -1,0 +1,80 @@
+Name: 稀宇极智
+Nick: MinMax
+URL: https://www.minimaxi.com/
+Country: 中国
+StockPrice: "25亿美元"
+StockURL: "https://www.google.com/search?q=minmax%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC"
+PriceURL: https://www.minimaxi.com/document/price?id=6433f32294878d408fc8293e
+Prices:
+  - abab6.5:
+    - name: ChatCompletion Pro abab6.5
+    - input: 0.03
+    - output: 0.03
+    - unit: RMB
+    - size: K
+  - abab6.5s:
+    - name: ChatCompletion Pro abab6.5s
+    - input: 0.01
+    - output: 0.01
+    - unit: RMB
+    - size: K
+  - abab6:
+    - name: ChatCompletion Pro abab6
+    - input: 0.1
+    - output: 0.1
+    - unit: RMB
+    - size: K
+  - abab5.5:
+    - name: ChatCompletion Pro abab5.5
+    - input: 0.015
+    - output: 0.015
+    - unit: RMB
+    - size: K
+  - abab5.5s:
+    - name: ChatCompletion Pro abab5.5s
+    - input: 0.005
+    - output: 0.005
+    - unit: RMB
+    - size: K
+  - abab6.5:
+    - name: ChatCompletion V2 abab6.5
+    - input: 0.03
+    - output: 0.03
+    - unit: RMB
+    - size: K
+  - abab6.5s:
+    - name: ChatCompletion V2 abab6.5s
+    - input: 0.01
+    - output: 0.01
+    - unit: RMB
+    - size: K
+  - abab6:
+    - name: ChatCompletion V2 abab6
+    - input: 0.1
+    - output: 0.1
+    - unit: RMB
+    - size: K
+  - abab5.5:
+    - name: ChatCompletion V2 abab5.5
+    - input: 0.015
+    - output: 0.015
+    - unit: RMB
+    - size: K
+  - abab5.5s:
+    - name: ChatCompletion V2 abab5.5s
+    - input: 0.005
+    - output: 0.005
+    - unit: RMB
+    - size: K
+  - abab5.5:
+    - name: ChatCompletion abab5.5
+    - input: 0.015
+    - output: 0.015
+    - unit: RMB
+    - size: K
+  - abab5.5s:
+    - name: ChatCompletion abab5.5s
+    - input: 0.005
+    - output: 0.005
+    - unit: RMB
+    - size: K
