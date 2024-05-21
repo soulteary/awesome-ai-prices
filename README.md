@@ -1,2 +1,20 @@
-# awesome-ai-price
-AI Model, Service, Product Price Monitor.
+# Awesome AI Prices 💰
+
+> 努力列出所有 AI 模型厂商的价格，找到 Awesome 的那个，欢迎提交或指出错误。
+
+- 面向企业和开发者：模型 API 服务（大云厂商、头部创业公司、其他竞争者）
+- 面向消费者的市场：成熟的 SaaS 服务，开箱即用。
+
+## 模型 API 服务
+
+### 国内
+
+### 全球
+
+## 模型 SaaS 服务
+
+### 国内
+
+### 全球
+
+
