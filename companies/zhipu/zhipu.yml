@@ -1,0 +1,26 @@
+Name: 智谱 AI
+Nick: 智谱
+URL: https://zhipuai.cn/
+Country: 中国
+StockPrice: "估值100亿人民币"
+StockURL: "https://www.google.com/search?q=%E6%99%BA%E8%B0%B1%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC"
+PriceURL: https://open.bigmodel.cn/pricing
+Prices:
+  - GLM-4:
+    - name: GLM-4
+    - input: 0.1
+    - output: 0.1
+    - unit: RMB
+    - size: K
+  - GLM-4V:
+    - name: GLM-4V
+    - input: 0.1
+    - output: 0.1
+    - unit: RMB
+    - size: K
+  - GLM-3-Turbo:
+    - name: GLM-3-Turbo
+    - input: 0.001
+    - output: 0.001
+    - unit: RMB
+    - size: K
