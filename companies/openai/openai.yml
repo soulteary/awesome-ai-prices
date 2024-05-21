@@ -1,0 +1,57 @@
+Name: OpenAI
+Nick: OpenAI
+URL: https://openai.com
+Country: 美国
+StockPrice: "估值800亿美金"
+StockURL: "https://www.google.com/search?q=openai+%E4%BC%B0%E5%80%BC"
+PriceURL: https://openai.com/api/pricing/
+ContextURL: 
+  - https://platform.openai.com/docs/models/gpt-4o
+  - https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4
+  - https://platform.openai.com/docs/models/gpt-3-5-turbo
+Prices:
+  - GPT-4o:
+    - name: gpt-4o
+    - input: 5
+    - output: 15
+    - unit: USD
+    - size: M
+    - context: 128k
+  - GPT-4 Turbo:
+    - name: gpt-4-turbo
+    - input: 10
+    - output: 30
+    - unit: USD
+    - size: M
+    - context: 128k
+  - GPT-3.5 Turbo:
+    - name: gpt-3.5-turbo-0125
+    - input: 0.5
+    - output: 1.5
+    - unit: USD
+    - size: M
+    - context: 16k
+  - GPT-4:
+    - name: gpt-4
+    - input: 30
+    - output: 60
+    - unit: USD
+    - size: M
+    - context: 8k
+    - state: out-of-date
+  - GPT-4-32k:
+    - name: gpt-4-32k
+    - input: 60
+    - output: 120
+    - unit: USD
+    - size: M
+    - context: 32k
+    - state: out-of-date
+  - GPT-3.5 Turbo Instruct:
+    - name: gpt-3.5-turbo-instruct
+    - input: 1.5
+    - output: 2.0
+    - unit: USD
+    - size: M
+    - context: 4k
+    - state: out-of-date
